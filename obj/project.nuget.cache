@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fH6vLfew7uiWPGgF5JThwuUKijbQ5+Bn795VryNM+F92eNVQa7fb6GBsAdLSaxlFyj1Sr9Ku0I5c8l3CSv4dQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SivaramGunabalan\\source\\repos\\Azurenet6\\Azurenet6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SivaramGunabalan\\.nuget\\packages\\syncfusion.htmltopdfconverter.qtwebkit.net.core\\19.4.0.42\\syncfusion.htmltopdfconverter.qtwebkit.net.core.19.4.0.42.nupkg.sha512"
+  ],
+  "logs": []
+}

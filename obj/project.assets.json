@@ -1,0 +1,239 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.4.0.42": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {},
+          "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.dll": {},
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {},
+          "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.dll": {},
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.4.0.42": {
+      "sha512": "RzMNRbBQxEy/xvxJpt4+tekpjIrvFiNw7lqqT6EUn/MG/WxjPB5Ltn/ybm2KQubVe8fC8/YGWlHB4/643Jlb8Q==",
+      "type": "package",
+      "path": "syncfusion.htmltopdfconverter.qtwebkit.net.core/19.4.0.42",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/QtBinariesLinux/Syncfusion.WebKitWrapper",
+        "lib/QtBinariesLinux/imageformats/libqdds.so",
+        "lib/QtBinariesLinux/imageformats/libqgif.so",
+        "lib/QtBinariesLinux/imageformats/libqicns.so",
+        "lib/QtBinariesLinux/imageformats/libqico.so",
+        "lib/QtBinariesLinux/imageformats/libqjp2.so",
+        "lib/QtBinariesLinux/imageformats/libqjpeg.so",
+        "lib/QtBinariesLinux/imageformats/libqmng.so",
+        "lib/QtBinariesLinux/imageformats/libqsvg.so",
+        "lib/QtBinariesLinux/imageformats/libqtga.so",
+        "lib/QtBinariesLinux/imageformats/libqtiff.so",
+        "lib/QtBinariesLinux/imageformats/libqwbmp.so",
+        "lib/QtBinariesLinux/imageformats/libqwebp.so",
+        "lib/QtBinariesLinux/libGL.so.1",
+        "lib/QtBinariesLinux/libQt5Core.so.5",
+        "lib/QtBinariesLinux/libQt5DBus.so.5",
+        "lib/QtBinariesLinux/libQt5Gui.so.5",
+        "lib/QtBinariesLinux/libQt5Multimedia.so.5",
+        "lib/QtBinariesLinux/libQt5MultimediaWidgets.so.5",
+        "lib/QtBinariesLinux/libQt5Network.so.5",
+        "lib/QtBinariesLinux/libQt5OpenGL.so.5",
+        "lib/QtBinariesLinux/libQt5Positioning.so.5",
+        "lib/QtBinariesLinux/libQt5PrintSupport.so.5",
+        "lib/QtBinariesLinux/libQt5Qml.so.5",
+        "lib/QtBinariesLinux/libQt5Quick.so.5",
+        "lib/QtBinariesLinux/libQt5Sensors.so.5",
+        "lib/QtBinariesLinux/libQt5Sql.so.5",
+        "lib/QtBinariesLinux/libQt5Svg.so.5",
+        "lib/QtBinariesLinux/libQt5WebChannel.so.5",
+        "lib/QtBinariesLinux/libQt5WebKit.so.5",
+        "lib/QtBinariesLinux/libQt5WebKitWidgets.so.5",
+        "lib/QtBinariesLinux/libQt5Widgets.so.5",
+        "lib/QtBinariesLinux/libQt5XcbQpa.so.5",
+        "lib/QtBinariesLinux/libicudata.so.55",
+        "lib/QtBinariesLinux/libicui18n.so.55",
+        "lib/QtBinariesLinux/libicuuc.so.55",
+        "lib/QtBinariesLinux/libjpeg.so.8",
+        "lib/QtBinariesLinux/libpng12.so.0",
+        "lib/QtBinariesLinux/libsqlite3.so.0",
+        "lib/QtBinariesLinux/libstdc++.so.6",
+        "lib/QtBinariesLinux/platforms/libqminimal.so",
+        "lib/QtBinariesLinux/platforms/libqoffscreen.so",
+        "lib/QtBinariesLinux/platforms/libqxcb.so",
+        "lib/QtBinariesMac/Syncfusion.WebKitWrapper",
+        "lib/QtBinariesMac/imageformats/libqdds.dylib",
+        "lib/QtBinariesMac/imageformats/libqgif.dylib",
+        "lib/QtBinariesMac/imageformats/libqicns.dylib",
+        "lib/QtBinariesMac/imageformats/libqico.dylib",
+        "lib/QtBinariesMac/imageformats/libqjp2.dylib",
+        "lib/QtBinariesMac/imageformats/libqjpeg.dylib",
+        "lib/QtBinariesMac/imageformats/libqmng.dylib",
+        "lib/QtBinariesMac/imageformats/libqsvg.dylib",
+        "lib/QtBinariesMac/imageformats/libqtga.dylib",
+        "lib/QtBinariesMac/imageformats/libqtiff.dylib",
+        "lib/QtBinariesMac/imageformats/libqwbmp.dylib",
+        "lib/QtBinariesMac/imageformats/libqwebp.dylib",
+        "lib/QtBinariesMac/libQt5Core.5.dylib",
+        "lib/QtBinariesMac/libQt5DBus.5.dylib",
+        "lib/QtBinariesMac/libQt5Gui.5.dylib",
+        "lib/QtBinariesMac/libQt5Multimedia.5.dylib",
+        "lib/QtBinariesMac/libQt5MultimediaWidgets.5.dylib",
+        "lib/QtBinariesMac/libQt5Network.5.dylib",
+        "lib/QtBinariesMac/libQt5OpenGL.5.dylib",
+        "lib/QtBinariesMac/libQt5Positioning.5.dylib",
+        "lib/QtBinariesMac/libQt5PrintSupport.5.dylib",
+        "lib/QtBinariesMac/libQt5Qml.5.dylib",
+        "lib/QtBinariesMac/libQt5Quick.5.dylib",
+        "lib/QtBinariesMac/libQt5Sensors.5.dylib",
+        "lib/QtBinariesMac/libQt5Sql.5.dylib",
+        "lib/QtBinariesMac/libQt5Svg.5.dylib",
+        "lib/QtBinariesMac/libQt5WebChannel.5.dylib",
+        "lib/QtBinariesMac/libQt5WebKit.5.dylib",
+        "lib/QtBinariesMac/libQt5WebKitWidgets.5.dylib",
+        "lib/QtBinariesMac/libQt5Widgets.5.dylib",
+        "lib/QtBinariesMac/libcrypto.1.0.0.dylib",
+        "lib/QtBinariesMac/libssl.1.0.0.dylib",
+        "lib/QtBinariesMac/platforms/libqcocoa.dylib",
+        "lib/QtBinariesMac/platforms/libqminimal.dylib",
+        "lib/QtBinariesMac/platforms/libqoffscreen.dylib",
+        "lib/QtBinariesWindows/Qt5Core.dll",
+        "lib/QtBinariesWindows/Qt5Gui.dll",
+        "lib/QtBinariesWindows/Qt5Multimedia.dll",
+        "lib/QtBinariesWindows/Qt5MultimediaWidgets.dll",
+        "lib/QtBinariesWindows/Qt5Network.dll",
+        "lib/QtBinariesWindows/Qt5OpenGL.dll",
+        "lib/QtBinariesWindows/Qt5Positioning.dll",
+        "lib/QtBinariesWindows/Qt5PrintSupport.dll",
+        "lib/QtBinariesWindows/Qt5Qml.dll",
+        "lib/QtBinariesWindows/Qt5Quick.dll",
+        "lib/QtBinariesWindows/Qt5Sensors.dll",
+        "lib/QtBinariesWindows/Qt5Sql.dll",
+        "lib/QtBinariesWindows/Qt5Svg.dll",
+        "lib/QtBinariesWindows/Qt5WebChannel.dll",
+        "lib/QtBinariesWindows/Qt5WebKit.dll",
+        "lib/QtBinariesWindows/Qt5WebKitWidgets.dll",
+        "lib/QtBinariesWindows/Qt5Widgets.dll",
+        "lib/QtBinariesWindows/Syncfusion.WebKitWrapper",
+        "lib/QtBinariesWindows/icudt49.dll",
+        "lib/QtBinariesWindows/icuin49.dll",
+        "lib/QtBinariesWindows/icuuc49.dll",
+        "lib/QtBinariesWindows/imageformats/qdds.dll",
+        "lib/QtBinariesWindows/imageformats/qgif.dll",
+        "lib/QtBinariesWindows/imageformats/qicns.dll",
+        "lib/QtBinariesWindows/imageformats/qico.dll",
+        "lib/QtBinariesWindows/imageformats/qjp2.dll",
+        "lib/QtBinariesWindows/imageformats/qjpeg.dll",
+        "lib/QtBinariesWindows/imageformats/qmng.dll",
+        "lib/QtBinariesWindows/imageformats/qsvg.dll",
+        "lib/QtBinariesWindows/imageformats/qtga.dll",
+        "lib/QtBinariesWindows/imageformats/qtiff.dll",
+        "lib/QtBinariesWindows/imageformats/qwbmp.dll",
+        "lib/QtBinariesWindows/imageformats/qwebp.dll",
+        "lib/QtBinariesWindows/libEGL.dll",
+        "lib/QtBinariesWindows/libGLESv2.dll",
+        "lib/QtBinariesWindows/platforms/qminimal.dll",
+        "lib/QtBinariesWindows/platforms/qoffscreen.dll",
+        "lib/QtBinariesWindows/platforms/qwindows.dll",
+        "lib/QtBinariesWindows/zlib1.dll",
+        "lib/netstandard2.0/Syncfusion.Compression.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.Compression.Portable.xml",
+        "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.xml",
+        "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll",
+        "lib/netstandard2.0/Syncfusion.Pdf.Portable.xml",
+        "syncfusion.htmltopdfconverter.qtwebkit.net.core.19.4.0.42.nupkg.sha512",
+        "syncfusion.htmltopdfconverter.qtwebkit.net.core.nuspec",
+        "syncfusion_logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core >= 19.4.0.42"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SivaramGunabalan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SivaramGunabalan\\source\\repos\\Azurenet6\\Azurenet6.csproj",
+      "projectName": "Azurenet6",
+      "projectPath": "C:\\Users\\SivaramGunabalan\\source\\repos\\Azurenet6\\Azurenet6.csproj",
+      "packagesPath": "C:\\Users\\SivaramGunabalan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SivaramGunabalan\\source\\repos\\Azurenet6\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SivaramGunabalan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\2022vol1sp1nuget\\New folder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": {
+            "target": "Package",
+            "version": "[19.4.0.42, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
