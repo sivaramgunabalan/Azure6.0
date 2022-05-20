@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Azurenet6/1.0.0": {
+        "dependencies": {
+          "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core": "19.4.0.42"
+        },
+        "runtime": {
+          "Azurenet6.dll": {}
+        }
+      },
+      "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.4.0.42": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Compression.Portable.dll": {
+            "assemblyVersion": "19.4200.0.42",
+            "fileVersion": "19.4200.0.42"
+          },
+          "lib/netstandard2.0/Syncfusion.HtmlConverter.Portable.dll": {
+            "assemblyVersion": "19.4200.0.42",
+            "fileVersion": "19.4200.0.42"
+          },
+          "lib/netstandard2.0/Syncfusion.Pdf.Portable.dll": {
+            "assemblyVersion": "19.4200.0.42",
+            "fileVersion": "19.4200.0.42"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Azurenet6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.HtmlToPdfConverter.QtWebKit.Net.Core/19.4.0.42": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RzMNRbBQxEy/xvxJpt4+tekpjIrvFiNw7lqqT6EUn/MG/WxjPB5Ltn/ybm2KQubVe8fC8/YGWlHB4/643Jlb8Q==",
+      "path": "syncfusion.htmltopdfconverter.qtwebkit.net.core/19.4.0.42",
+      "hashPath": "syncfusion.htmltopdfconverter.qtwebkit.net.core.19.4.0.42.nupkg.sha512"
+    }
+  }
+}
